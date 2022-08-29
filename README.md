@@ -1,7 +1,7 @@
 # cherryparser
 
 A simple web application that scraping data from<br> 
-the website and saving it to the database.
+the website and saving it to the database.<br>
 Release date: 02 July 2020.
 
 <a href="http://ec2-54-93-229-8.eu-central-1.compute.amazonaws.com">Sign in to cherryparser</a>
